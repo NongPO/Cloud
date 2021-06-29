@@ -1,0 +1,15 @@
+{
+    "name": "piya/cloud",
+    "autoload": {
+        "psr-4": {
+            "Piya\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NongPO",
+            "email": "86454957+NongPO@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
